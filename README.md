@@ -38,3 +38,5 @@ A musical instrument that can be played using the computer’s keyboard. As a no
 2. Download the started code for the drum kit here
 3. Rewatch the drum kit video at your own pace and complete `index-START.html`
 4. Create a new instrument using the mp3 files found in the sound directory from, have fun, mix different sound or create a traditional sounding instrument
+
+
